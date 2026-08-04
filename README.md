@@ -1,16 +1,20 @@
-## Hi there 👋
+Касландзия Лика
 
-<!--
-**Lika380/Lika380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Веб-разработчик
 
-Here are some ideas to get you started:
+Разрабатываю коммерческие веб-сайты и веб-приложения — от вёрстки и интерфейсов до серверной части и базы данных. Имею опыт работы с заказчиками и понимание принципов UX/UI проектирования.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Технологический стек
+Frontend: HTML5, CSS3, JavaScript (ES6+), React
+Backend: Node.js, Express, PostgreSQL, REST API
+Проекты
+
+Shop-beauty — интернет-магазин Полный цикл разработки: каталог товаров, корзина, оформление заказа, административная панель. Демонстрация: https://lika380.github.io/Shop-beauty/
+
+Сайт коттеджного комплекса Коммерческий проект для сферы туризма и недвижимости.
+
+Дом мёда Аршба Коммерческий сайт для производителя мёда: каталог продукции, оформление доставки. Сайт: https://arshbamed.ru
+
+Контакты
+Email: lika.kaslandziya@gmail.com
+Telegram: https://t.me/li_kasl
