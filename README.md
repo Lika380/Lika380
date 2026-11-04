@@ -30,7 +30,8 @@ Fullstack-разработчица из Абхазии. Делаю коммер�
 ## 📫 Контакты
 
 Email: lika.kaslandziya@gmail.com  
-Telegram: [@li_kasl](https://t.me/li_kasl)
+Telegram: [@li_kasl](https://t.me/li_kasl)  
+Instagram: [@li.hakunamatata](https://www.instagram.com/li.hakunamatata/)
 
 ---
 
