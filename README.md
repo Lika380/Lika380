@@ -23,10 +23,6 @@ Fullstack-разработчица из Абхазии. Делаю коммер�
 
 **Arduino-робот** — машинка с объездом препятствий (Arduino UNO, L298N, HC-SR04, SG90).
 
-## 🚀 Сейчас
-
-Руковожу проектом **«Технорезерв Абхазии»** — молодёжное IT- и робототехническое сообщество. Изучаю WebSockets и решаю алгоритмические задачи на JavaScript.
-
 ## 📫 Контакты
 
 Email: lika.kaslandziya@gmail.com  
@@ -35,4 +31,4 @@ Instagram: [@li.hakunamatata](https://www.instagram.com/li.hakunamatata/)
 
 ---
 
-**In English:** Fullstack developer from Abkhazia (React, Node.js, Express, PostgreSQL). Background in advertising and UX/UI design. Building commercial websites and leading a youth IT & robotics community project.
+**In English:** Fullstack developer from Abkhazia (React, Node.js, Express, PostgreSQL). Background in advertising and UX/UI design. Building commercial websites and web apps.
